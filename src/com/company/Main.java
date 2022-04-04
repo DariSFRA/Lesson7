@@ -11,7 +11,7 @@ public class Main {
         cats[3] = new Cat("Pushok", 11);
         cats[4] = new Cat("Persik", 5);
         cats[5] = new Cat("Robin", 21);
-        cats[6] = new Cat("Boris", 30);
+        cats[6] = new Cat("Boris", 31);
 
         for(Cat cat : cats){
             if (!plate.info(cat.appetit)){
